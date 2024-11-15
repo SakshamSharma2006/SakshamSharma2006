@@ -1,6 +1,6 @@
 <h1>👋 Hello! I'm Saksham!</h1>
 <div align="center">
-  <img src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">via GIPHY</a></p>" alt="Coder Gif" style="width:300px;"/>
+  <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" width="40" height="40" />
 </div>
 
 <p>
