@@ -1,7 +1,5 @@
 <h1>👋 Hello! I'm Saksham!</h1>
-<div align="center">
-  <img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" width="40" height="40" />
-</div>
+
 
 <p>
 🎓 <strong>BSc IT Student</strong> | 💻 <strong>Aspiring Data Scientist</strong><br>
