@@ -24,10 +24,6 @@
 I'm a BSc IT student passionate about **data science, machine learning, and deep learning**. I build hands-on, end-to-end projects — from training models on raw audio and image data to deploying them as real, interactive applications. My published research on real-time music genre classification (IJAIR, 2026) reflects my interest in models that are not just accurate, but practical to deploy.
 
 - 🔭 Currently working on **SecureChat** — a full-stack, end-to-end encrypted chat app (Next.js, MongoDB, Pusher)
-- 📄 Published research: *Real-Time Music Genre Classification using CNN and MFCC for Interactive Systems* — IJAIR, Vol. 13, Issue 1 (XIII), 2026
-- 🌱 Currently deepening my knowledge of **Transformers, generative models (GANs/VAEs), and time series forecasting**
-- 💬 Ask me about **deep learning, audio/image classification, or full-stack ML deployment**
-- ⚡ Fun fact: I like turning research papers into working, real-time applications
 
 ---
 
@@ -69,7 +65,7 @@ I'm a BSc IT student passionate about **data science, machine learning, and deep
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamSharma2006&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SakshamSharma2006&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
