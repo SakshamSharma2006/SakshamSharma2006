@@ -112,7 +112,7 @@ I'm a BSc IT student based in Mumbai, passionate about **data science, machine l
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamSharma2006&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSharma2006&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br/>
