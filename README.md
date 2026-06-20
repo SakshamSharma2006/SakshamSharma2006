@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/saksham-sharma-25-03-2006/">
+<a href="https://www.linkedin.com/in/saksham-sharma-25-03-2006-/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:bscit.saksham@gmail.com">
@@ -130,7 +130,7 @@ I'm a BSc IT student based in Mumbai, passionate about **data science, machine l
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-sharma-25-03-2006/)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-sharma-25-03-2006-/)
 [![Email](https://img.shields.io/badge/-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscit.saksham@gmail.com)
 
 <sub>Thanks for stopping by — feel free to explore my repos or reach out!</sub>
