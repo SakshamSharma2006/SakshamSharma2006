@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>Hi, I'm Saksham Sharma 👋</h1>
-<h3>Data Scientist in the Making · Published Researcher · Builder of End-to-End ML Systems</h3>
+<h3>M.Sc. Data Science Candidate @ NMIMS · Published Researcher · Builder of End-to-End ML Systems</h3>
 
 <a href="https://github.com/SakshamSharma2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist+%26+ML+Engineer;BSc+IT+Graduate+%40+MVLU+College%2C+Mumbai;Incoming+M.Sc.+Data+Science+%40+NMIMS;Published+Researcher+%E2%80%94+IJAIR+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=M.Sc.+Data+Science+%40+NMIMS%2C+Mumbai;Aspiring+Data+Scientist+%26+ML+Engineer;BSc+IT+Graduate+%40+MVLU+College;Published+Researcher+%E2%80%94+IJAIR+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,13 +25,22 @@
 
 ## 💫 About Me
 
-I'm a BSc IT student in Mumbai focused on **data science, machine learning, and deep learning**. I build complete, end-to-end projects — training models on raw audio, image, and time-series data, then deploying them as real, interactive applications rather than leaving them as notebooks. My published research on real-time music genre classification (IJAIR, 2026) reflects how I approach ML: models should be accurate *and* practical to ship.
+I'm currently pursuing my **M.Sc. in Data Science at NMIMS, Mumbai** (Batch 2026), building on a BSc IT foundation to go deeper into applied machine learning, statistical modeling, and AI systems. I focus on complete, end-to-end projects — training models on raw audio, image, and time-series data, then deploying them as real, interactive applications rather than leaving them as notebooks. My published research on real-time music genre classification (IJAIR, 2026) reflects how I approach ML: models should be accurate *and* practical to ship.
 
-- 🎓 BSc IT graduate — Sheth L.U. Jhaveri & Sir M.V. College (MVLU), Mumbai
-- 🎯 Incoming M.Sc. (Data Science) student at NMIMS, Batch 2026
+- 🎓 **Currently pursuing M.Sc. (Data Science) at NMIMS, Mumbai** — Batch 2026
+- 🏅 BSc IT graduate — Sheth L.U. Jhaveri & Sir M.V. College (MVLU), Mumbai
 - 📚 Trained hands-on in ML/DS through a project-based Data Science & ML course
 - 🔬 Published researcher — IJAIR, Vol. 13, Issue 1, Jan–Mar 2026
 - 💡 Interests: deep learning, time series forecasting, applied NLP, and deploying models people can actually use
+
+<br/>
+
+## 🎓 Education
+
+| | |
+|---|---|
+| **M.Sc. (Data Science)**, NMIMS, Mumbai | 🟢 *Currently Pursuing — Batch 2026* |
+| **BSc Information Technology**, MVLU College, Mumbai | ✅ *Completed* |
 
 <br/>
 
@@ -130,6 +139,11 @@ I'm a BSc IT student in Mumbai focused on **data science, machine learning, and 
 </div>
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SakshamSharma2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=SakshamSharma2006&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -147,15 +161,6 @@ I'm a BSc IT student in Mumbai focused on **data science, machine learning, and 
      a stale cache; a hard refresh (Ctrl+Shift+R) or waiting ~10 min often resolves it.
 -->
 
-
-<br/>
-
-## 🎓 Education
-
-| | |
-|---|---|
-| **M.Sc. (Data Science)**, NMIMS, Mumbai | *Incoming — Batch 2026* |
-| **BSc Information Technology**, MVLU College, Mumbai | *Completed* |
 
 <br/>
 
