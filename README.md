@@ -126,6 +126,10 @@ I'm a BSc IT student in Mumbai focused on **data science, machine learning, and 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/SakshamSharma2006/SakshamSharma2006/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=SakshamSharma2006&theme=tokyonight&hide_border=true" />
 </div>
 
