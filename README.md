@@ -126,11 +126,6 @@ I'm a BSc IT student in Mumbai focused on **data science, machine learning, and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SakshamSharma2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSharma2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=SakshamSharma2006&theme=tokyonight&hide_border=true" />
 </div>
 
