@@ -59,21 +59,7 @@ I'm currently pursuing my **M.Sc. in Data Science at NMIMS, Mumbai** (Batch 2026
       <a href="https://github.com/SakshamSharma2006/Advance-Data-science">🔗 View Repository</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Time Series Forecasting</h3>
-      <p>End-to-end forecasting pipeline on household electric power consumption data — stationarity testing, ACF/PACF analysis, and ARIMA/SARIMA modeling.</p>
-      <a href="https://github.com/SakshamSharma2006">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔒 SecureChat</h3>
-      <p>Full-stack encrypted chat app built as a Next.js 15 monorepo — AES-256 encryption, JWT auth, bcrypt, and real-time messaging via Pusher, deployed on Vercel.</p>
-      <a href="https://github.com/SakshamSharma2006">🔗 View Repository</a>
-    </td>
-  </tr>
 </table>
-
-> 💡 *Update the placeholder links above to point to your actual repo URLs (SecureChat and the time series project) once you've confirmed their repo names.*
 
 <br/>
 
