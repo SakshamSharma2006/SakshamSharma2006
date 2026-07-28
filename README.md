@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Saksham Sharma 👋</h1>
-<h3>M.Sc. Data Science Candidate @ NMIMS · Published Researcher · Builder of End-to-End ML Systems</h3>
+<h3>M.Sc. Data Science Student @ NMIMS · Published Researcher · Builder of End-to-End ML Systems</h3>
 
 <a href="https://github.com/SakshamSharma2006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=M.Sc.+Data+Science+%40+NMIMS%2C+Mumbai;Aspiring+Data+Scientist+%26+ML+Engineer;BSc+IT+Graduate+%40+MVLU+College;Published+Researcher+%E2%80%94+IJAIR+2026" alt="Typing SVG" />
@@ -27,11 +27,11 @@
 
 I'm currently pursuing my **M.Sc. in Data Science at NMIMS, Mumbai** (Batch 2026), building on a BSc IT foundation to go deeper into applied machine learning, statistical modeling, and AI systems. I focus on complete, end-to-end projects — training models on raw audio, image, and time-series data, then deploying them as real, interactive applications rather than leaving them as notebooks. My published research on real-time music genre classification (IJAIR, 2026) reflects how I approach ML: models should be accurate *and* practical to ship.
 
-- 🎓 **Currently pursuing M.Sc. (Data Science) at NMIMS, Mumbai** — Batch 2026
-- 🏅 BSc IT graduate — Sheth L.U. Jhaveri & Sir M.V. College (MVLU), Mumbai
-- 📚 Trained hands-on in ML/DS through a project-based Data Science & ML course
-- 🔬 Published researcher — IJAIR, Vol. 13, Issue 1, Jan–Mar 2026
-- 💡 Interests: deep learning, time series forecasting, applied NLP, and deploying models people can actually use
+-  **Currently pursuing M.Sc. (Data Science) at NMIMS, Mumbai** — Batch 2026
+-  BSc IT graduate — Sheth L.U. Jhaveri & Sir M.V. College (MVLU), Mumbai
+-  Trained hands-on in ML/DS through a project-based Data Science & ML course
+-  Published researcher — IJAIR, Vol. 13, Issue 1, Jan–Mar 2026
+-  Interests: deep learning, time series forecasting, applied NLP, and deploying models people can actually use
 
 <br/>
 
