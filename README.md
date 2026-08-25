@@ -124,14 +124,6 @@ I'm currently pursuing my **M.Sc. in Data Science at NMIMS, Mumbai** (Batch 2026
   <img src="https://raw.githubusercontent.com/SakshamSharma2006/SakshamSharma2006/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph">
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SakshamSharma2006&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSharma2006&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
 <!--
   If these still don't render on your profile page, it's almost always the shared
   public instance being rate-limited or temporarily down (common — many thousands
